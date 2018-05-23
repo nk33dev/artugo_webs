@@ -1,0 +1,13 @@
+Serviceicon: fa fa-4x fa-desktop
+
+----
+
+Servicetitle: Responsiv
+
+----
+
+Servicetext: Diese Website ist optimiert für Smartphone, Tablet und Desktop.
+
+----
+
+Title: Responsiv

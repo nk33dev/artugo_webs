@@ -1,0 +1,14 @@
+title: Slider
+files: false
+pages:
+  template: slide
+
+fields:
+  pageSettings:
+    label: Page Settings
+    type: headline
+
+  sliderHeight:
+    label: Fullheight
+    type: checkbox
+    text: Make slider full height

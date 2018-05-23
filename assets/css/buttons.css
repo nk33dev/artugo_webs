@@ -1,0 +1,26 @@
+.btn {
+  font-weight: 700;
+  text-transform: uppercase;
+  border: none;
+  border-radius: 300px;
+  font-family: Open Sans;
+}
+.btn-xl {
+  padding: 1rem 2rem;
+}
+.btn-primary {
+  background-color: #56CCF2;
+  border-color: #56CCF2;
+}
+.btn-primary:hover {
+  color: #fff;
+  background-color: #27beee !important;
+}
+.btn-primary:focus {
+  color: #fff;
+  background-color: #27beee !important;
+}
+.btn-primary:active {
+  color: #fff;
+  background-color: #27beee !important;
+}

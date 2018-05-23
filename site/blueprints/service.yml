@@ -1,0 +1,16 @@
+title: Service
+
+fields:
+  serviceIcon:
+    label: Service Icon
+    type: text
+    help: fa, Grösse, Icon
+
+  serviceTitle:
+    label: Titel
+    type:  text
+    
+  serviceText:
+    label: Text
+    type:  textarea
+    

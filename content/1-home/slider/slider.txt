@@ -1,0 +1,9 @@
+Pagesettings: 
+
+----
+
+Title: Slider
+
+----
+
+Sliderheight: 1

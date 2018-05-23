@@ -1,0 +1,13 @@
+Serviceicon: fa fa-4x fa-google
+
+----
+
+Servicetitle: SEO Ready
+
+----
+
+Servicetext: Diese Website ist optimiert für die Suchmaschine Google.
+
+----
+
+Title: SEO Ready

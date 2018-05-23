@@ -1,0 +1,25 @@
+title: Slide
+pages: false
+options:
+  preview: false
+  status: true
+  template: false
+  url: false
+  delete: true
+
+fields:
+  pageSettings:
+    label: Slide Settings
+    type: headline
+
+  slideImg:
+    label: Image
+    type: Image
+
+  slideTitle:
+    label: Title
+    type: text
+
+  slideText:
+    label: Text
+    type: textarea

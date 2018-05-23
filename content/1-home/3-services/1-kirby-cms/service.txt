@@ -1,0 +1,17 @@
+Icon: 
+
+----
+
+Title: Kirby CMS
+
+----
+
+Serviceicon: fa fa-4x fa-diamond
+
+----
+
+Servicetitle: Kirby CMS
+
+----
+
+Servicetext: Diese Website können Sie von A-Z selber pflegen, aktualisieren und mit eigene Inhalten beleben.

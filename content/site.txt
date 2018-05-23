@@ -1,0 +1,50 @@
+Title: Artugo Webdesign S
+
+----
+
+Author: Artugo
+
+----
+
+Description: Artugo Webdesign S
+
+----
+
+Copyright: Artugo ©2018
+
+----
+
+Google: 
+
+----
+
+Facebooktitel: Artugo Webdesign S
+
+----
+
+Facebookdescription: Jetzt mit dem Artugo Webdesign S Angebot im Internet durchstarten!
+
+----
+
+Facebookimage: facebook-bg.jpg
+
+----
+
+Footerone: 
+
+<h2>Awesome Firm</h2>
+Musterweg 1
+1000 Musterstadt
+
+(link: mailto:info@awesomefirm.com text: info@awesomefirm.com)
+
+----
+
+Footertwo: 
+
+----
+
+Footerthree: 
+
+Impressum
+Sitemap

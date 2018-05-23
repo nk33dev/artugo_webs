@@ -1,0 +1,29 @@
+Pagesettings: 
+
+----
+
+Parallaximage: parallax.jpg
+
+----
+
+Parallaximageoverlay: 0
+
+----
+
+Title: Parallax
+
+----
+
+Pagecontent: 
+
+----
+
+Displaytitle: Parallax Baustein
+
+----
+
+Textleft: Ich habe auch den berühmten Parallax Effekt.
+
+----
+
+Parallaxfullheight: 0

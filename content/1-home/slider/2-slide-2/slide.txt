@@ -1,0 +1,17 @@
+Pagesettings: 
+
+----
+
+Slideimg: banner-webs-02.jpg
+
+----
+
+Slidetitle: 
+
+----
+
+Slidetext: 
+
+----
+
+Title: Slide 2

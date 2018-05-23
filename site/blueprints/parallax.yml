@@ -1,0 +1,37 @@
+title: Parallax
+
+fields:
+  pageSettings:
+    label: Page Settings
+    type: headline
+
+  title:
+    label: Navigation title
+    type: text
+
+  parallaxImage:
+    label: Parallax image
+    type: image
+
+  parallaxImageOverlay:
+    label: Image Overlay
+    type: checkbox
+    text: Add dotted image overlay (if text unreadable)
+
+  parallaxFullHeight:
+    label: Full height
+    type: checkbox
+    text: Make parallax image full device height
+
+  pageContent:
+    label: Page Content left
+    type: headline
+
+  displaytitle:
+    label: Content title
+    type: text
+    help: Dieser Titel wird als Inhalt angezeigt
+
+  textLeft:
+    label: Contet left
+    type: textarea

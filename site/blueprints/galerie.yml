@@ -1,0 +1,40 @@
+title: Galerie
+
+pages: false
+files: true
+  fields:
+    author:
+      label: Author
+      type: text
+    copyright:
+      label: Copyright
+      type: text
+    caption:
+      label: Caption
+      type: textarea
+
+fields:
+  pageSettings:
+    label: Page Settings
+    type: headline
+
+  title:
+    label: Navigation Title
+    type:  text
+
+  pageContent:
+    label: Page Content
+    type: headline
+
+  displaytitle:
+    label: Content title
+    type:  text
+    help: Dieser Titel wird als Inhalt angezeigt
+
+  text:
+    label: Text
+    type:  textarea
+
+  galerieImgs:
+    label: Galerie Bilder
+    type:  images

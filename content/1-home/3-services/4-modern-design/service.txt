@@ -1,0 +1,13 @@
+Serviceicon: fa fa-4x fa-diamond
+
+----
+
+Servicetitle: Modern Design
+
+----
+
+Servicetext: Diese Website erscheint mit Ihren Farben, Bilder und Ihrem Logo.
+
+----
+
+Title: MODERN DESIGN

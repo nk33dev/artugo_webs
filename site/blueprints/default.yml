@@ -1,0 +1,31 @@
+title: Page
+
+fields:
+  pageSettings:
+    label: Page Settings
+    type: headline
+
+  title:
+    label: Navigation Title
+    type:  text
+
+  pageContent:
+    label: Page Content
+    type: headline
+
+  displaytitle:
+    label: Content title
+    type:  text
+    help: Dieser Titel wird als Inhalt angezeigt
+
+  displaysubtitle:
+    label: Display subitle
+    type:  text
+
+  leadtext:
+    label: Leadtext
+    type:  textarea
+
+  text:
+    label: Text
+    type:  textarea

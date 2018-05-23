@@ -1,0 +1,17 @@
+Pagesettings: 
+
+----
+
+Slideimg: banner-webs-01.jpg
+
+----
+
+Slidetitle: Artugo Webdesign S
+
+----
+
+Title: Slide 1
+
+----
+
+Slidetext: Jetzt mit dem Artugo Webdesign S Angebot im Internet durchstarten
