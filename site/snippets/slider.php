@@ -14,7 +14,7 @@
                         <li data-target="#carouselIndicators" data-slide-to="<?= $i ?>" <?php if($i === 0) : echo 'class="active"'; endif; ?>></li>
                     <?php endfor; ?>
                 </ol>
-            <?php endif(); ?>
+            <?php endif; ?>
             <div class="carousel-inner">
                 <?php foreach ($slides as $slide) : ?>
                     <div class="carousel-item<?php if($index === 0) : echo ' active'; endif; ?>" style="background-image: url('<?= $slide->contentUrl() .  "/" . $slide->slideImg()->value() ?>')" <?php e($page->children()->find('slider')->sliderHeight()->bool(), 'data-fullheight="1"'); ?>>
