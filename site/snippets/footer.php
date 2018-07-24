@@ -1,25 +1,40 @@
-<section class="footer" role="footer">
+<?php if(!$site->footerOne()->value() && !$site->footerTwo()->value() && !$site->footerThree()->value() && !$site->copyright()->value()) : ?>
+
+    <footer></footer>
+
+<?php else : ?>
+<section class="footer bg-dark" role="footer">
     <div class="conwrap container-fluid">
         <div class="container">
             <div class="row">
-                <div class="col-12 col-md-4">
-                	<?= $site->footerOne()->kirbytext() ?>
-                </div>
-                <div class="col-12 col-md-4">
-                	<?= $site->footerTwo()->kirbytext() ?>
-                </div>
-                <div class="col-12 col-md-4">
-                	<?= $site->footerThree()->kirbytext() ?>
-                </div>
+                <?php if($site->footerOne()->kirbytext()->value()) : ?>
+                    <div class="col-12 col-md-4">
+                        <?= $site->footerOne()->kirbytext() ?>
+                    </div>
+                <?php endif; ?>
+                <?php if($site->footerTwo()->kirbytext()->value()) : ?>
+                    <div class="col-12 col-md-4">
+                        <?= $site->footerTwo()->kirbytext() ?>
+                    </div>
+                <?php endif; ?>
+                <?php if($site->footerThree()->kirbytext()->value()) : ?>
+                    <div class="col-12 col-md-4">
+                        <?= $site->footerThree()->kirbytext() ?>
+                    </div>
+                <?php endif; ?>
             </div>
             <div class="row">
                 <div class="col-12 text-center">
-                    <span class="copyright"><?= $site->copyright() ?></span>
+                    <span class="copyright"><?= $site->copyright()->kirbytext() ?></span>
                 </div>
             </div>
         </div>
     </div>
-</footer>
+</section>
+
+<?php endif; ?>
+
+
 
 <!-- Bootstrap core JavaScript -->
 <script src="assets/vendor/jquery/jquery.min.js"></script>
